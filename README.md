@@ -30,4 +30,4 @@ This project is developed without any front-end framework to strengthen JavaScri
 # Screenshots
 
 # Desktop View
-![Desktop View](screenshots/dashboard.png)
+![Desktop View](CashFlowTracker.pdf)
