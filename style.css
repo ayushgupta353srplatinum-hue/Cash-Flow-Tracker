@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background: whitesmoke;
+  padding: 30px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  border-color: black;
+
+}
+
+#HeadingBox {
+  border-radius: 10px;
+  background-color: black;
+}
+
+#HeadingBox h2 {
+  text-align: center;
+  margin-bottom: 5px;
+  color: white;
+}
+
+#HeadingBox p {
+  text-align: center;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.subtitle {
+  text-align: center;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: #c6ccdf;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.card h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: 1px solid white;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #1f54c7;
+  color: black;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: blue;
+}
+
+.info {
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.delete {
+  cursor: pointer;
+  color: red;
+  font-size: 16px;
+}
+
+.highlight {
+  background: #c9e5d8;
+}
+
+.balance {
+  font-size: 24px;
+  font-weight: bold;
+  color: green;
+}
