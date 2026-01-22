@@ -34,5 +34,5 @@ This project is developed without any front-end framework to strengthen JavaScri
 
 # Live Demo
 https://cash-flow-tracker-for-corporate.vercel.app/
-#YouTube link
+# YouTube link
 https://youtu.be/m0OYspN2Ags?si=DgjuSqBigEtpt5d5
