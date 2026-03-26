@@ -27,12 +27,14 @@ Open `index.html` in any modern web browser.
 
 # Notes
 This project is developed without any front-end framework to strengthen JavaScript fundamentals.
+
 # Screenshots
 
 # Desktop View
 ![Desktop View](CashFlowTracker.pdf)
 
 # Live Demo
-https://cash-flow-tracker-for-corporate.vercel.app/
+
+
 # YouTube link
-https://youtu.be/m0OYspN2Ags?si=DgjuSqBigEtpt5d5
+
